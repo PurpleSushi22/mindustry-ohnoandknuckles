@@ -15,7 +15,7 @@ ammo: {
     height: 22
     width: 25
     damage: 10
-  }
+  },
   oh-no: {
     ammoMultiplier: 1
     speed: 5
@@ -23,7 +23,7 @@ ammo: {
     height: 22
     width: 25
     damage: 20
-  }
+  },
   titanium: {
     ammoMultiplier: 3
     speed: 6
@@ -31,7 +31,7 @@ ammo: {
     height: 22
     width: 25
     damage: 50
-  }
+  },
   thorium: {
     ammoMultiplier: 1.5
     speed: 4.5
@@ -39,7 +39,7 @@ ammo: {
     height: 23
     width: 24
     damage: 60
-  }
+  },
 },
 requirements: [
     { "item": "oh-no", "amount": 30},
