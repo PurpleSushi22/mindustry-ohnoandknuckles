@@ -1,4 +1,5 @@
 type: flying
+canBuild: true
 speed: 3
 boost: true
 health: 150
@@ -15,6 +16,8 @@ weapons: [
     alternate: true
     shootCone: 120
     rotate: true
+    collidesTeam: true
+    healPercent: 6.9
     bullet: {
       type: FlakBulletType
       lifetime: 100
