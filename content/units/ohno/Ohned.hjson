@@ -1,0 +1,37 @@
+type: mech
+speed: 1.5
+boost: true
+health: 200
+engineOffset: 5
+collidesAir: true
+collidesGround: true
+range: 2-
+killshooter: true
+hitSize: 3
+drawSize: 4
+hitColor: ff1111
+weapons: [
+  {
+    name: OhNo Gun
+    shootSound: ohno
+    reload: 7
+    alternate: true
+    shootCone: 120
+    rotate: true
+    bullet: {
+      type: FlakBulletType
+      lifetime: 240
+      speed: 10
+      frontColor: FFFFFF
+      backColor: FFFFFF
+      fragBullets: 10
+      damage: 8
+      fragBullet: {
+        lifetime: 10
+        damage: 8
+        collidesTeam: true
+        healPercent: 3
+      }
+    }
+  }
+]
