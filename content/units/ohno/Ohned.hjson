@@ -3,9 +3,7 @@ speed: 1.5
 boost: true
 health: 250
 engineOffset: 5
-collidesGround: true
 range: 0.4
-killshooter: true
 hitSize: 3
 drawSize: 4
 hitColor: ff1111
