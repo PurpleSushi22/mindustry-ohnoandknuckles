@@ -1,0 +1,40 @@
+type: legs
+speed: 1.2
+health: 400
+engineOffset: 5
+range: 10
+hitSize: 4
+drawSize: 5
+weapons: [
+  {
+    name: Leggy Gun
+    shootSound: ohno
+    reload: 30
+    alternate: true
+    shootCone: 120
+    rotate: true
+    bullet: {
+      type: ShrapnelBulletType
+      lifetime: 100
+      speed: 4.2
+      frontColor: FFFFDD
+      backColor: DDDDBB
+      fragBullets: 10
+      damage: 12
+      fragBullet: {
+        lifetime: 100
+        speed: 3.8
+        type: ShrapnelBulletType
+        frontColor: FFFFDD
+        backColor: DDDDBB
+        fragBullet: {
+          lifetime: 100
+          speed: 3.1
+          type: ShrapnelBulletType
+          frontColor: FFFFDD
+          backColor: DDDDBB
+        }
+      }
+    }
+  }
+]
