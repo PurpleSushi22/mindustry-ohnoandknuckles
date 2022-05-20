@@ -7,7 +7,7 @@ shootCone: 170
 targetGround: true
 range: 116
 shootSound: ohno
-ammo-types: {
+ammo: {
   lead: {
     ammoMultiplier: 2
     speed: 4
@@ -40,7 +40,7 @@ ammo-types: {
     width: 24
     damage: 60
   }
-}
+},
 requirements: [
     { "item": "oh-no", "amount": 30},
     { "item": "copper", "amount": 70},
