@@ -21,6 +21,13 @@ consumes: {
       lead/30
     ]
    }
+   {
+     unit: ultra
+     time: 1337
+    requirements: [
+      thorium/69
+      oh-no/69
+   } 
  ]
  research: air-factory
  category: units
