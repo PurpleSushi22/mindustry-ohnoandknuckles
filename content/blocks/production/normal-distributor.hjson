@@ -1,17 +1,18 @@
 {
   "type": "GenericSmelter",
-  "consumes": 
-  "items": {
+  "consumes": {
+  	"items": {
 		"items": [
 				{ "item": "lead", "amount": 1 },
 			],
 	},
+  }
   "outputItem": {"item": "oh-no", "amount": 1},
   "research": {
 		"parent": "distributor",
 		"requirements": [
-			"copper/40"
-      "lead/20"
+			"copper/100"
+      			"lead/50"
 		]
 	}
 }
