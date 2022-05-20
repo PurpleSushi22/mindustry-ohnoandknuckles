@@ -1,4 +1,3 @@
-  "category": crafting,
   "type": "GenericSmelter",
   "consumes": {
   	"items": {
@@ -16,3 +15,6 @@
 		]
 	}
   "itemCapacity": 5,
+  "category": "crafting",
+  "idleSound": "respawning",
+  "idleSoundVolume": 0.5
