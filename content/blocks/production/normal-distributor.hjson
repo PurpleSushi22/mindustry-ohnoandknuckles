@@ -8,13 +8,19 @@
 		},
 	},
 },
-  "outputItem": {"item": "oh-no", "amount": 1},
+  "outputItem": {
+  "items": {
+		"items": [
+			{ "item": "oh-no", "amount": 1 },
+			],
+		},
+	},
   "size": 2,
   "research": {
 		"parent": "distributor",
 		"requirements": [
 		"copper/40",
 		"lead/20"
-		]
-	      }
-}
+		],
+	      },
+},
