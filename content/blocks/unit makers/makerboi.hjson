@@ -1,4 +1,5 @@
 type: UnitFactory
+size: 3
 consumes: {
   power: 3.0
   }
