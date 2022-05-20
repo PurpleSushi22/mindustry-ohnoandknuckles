@@ -2,7 +2,7 @@ type: legs
 speed: 1.2
 health: 400
 engineOffset: 5
-range: 10
+range: 70
 hitSize: 4
 drawSize: 5
 weapons: [
