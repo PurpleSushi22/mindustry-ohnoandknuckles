@@ -2,4 +2,15 @@ type: ItemVoid
 category: distribution
 alwaysUnlocked: true
 health: 69
-constructTime: 1
+constructTime: 10
+requirements: [
+    { "item": "oh-no", "amount": 30},
+	],
+research: {
+    parent: return-from-brazil
+		requirements: [
+			oh-no/50
+      copper/200
+      lead/100
+		]
+	}
