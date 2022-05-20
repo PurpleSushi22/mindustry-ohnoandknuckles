@@ -2,7 +2,7 @@ type: ItemVoid
 category: distribution
 alwaysUnlocked: true
 health: 69
-constructTime: 10
+constructTime: 3
 requirements: [
     { "item": "oh-no", "amount": 30},
 	],
@@ -10,7 +10,7 @@ research: {
     parent: return-from-brazil
 		requirements: [
 			oh-no/50
-      copper/200
-      lead/100
+      			copper/200
+      			lead/100
 		]
 	}
