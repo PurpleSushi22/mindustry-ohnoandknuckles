@@ -1,4 +1,5 @@
-  "type": "GenericCrafter",
+{
+ "type": "GenericCrafter",
   "consumes": {
   	"items": {
 		"items": [
@@ -18,3 +19,4 @@
   "itemCapacity": 5,
   "idleSound": "respawning",
   "idleSoundVolume": 0.5
+}
