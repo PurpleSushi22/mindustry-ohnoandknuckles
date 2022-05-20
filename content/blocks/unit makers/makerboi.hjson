@@ -1,0 +1,25 @@
+type: UnitFactory
+consumes: {
+  power: 3.0
+  }
+ plans: [
+  {
+    unit: Ohned
+    time: 1000
+    requirements: [
+      oh-no/25
+      lead/30
+    ]
+  }
+  {
+    unit: Legged
+    time: 1000
+    requirements: [
+      oh-no/30
+      silicon/20
+      lead/30
+    ]
+   }
+ ]
+ research: air-factory
+ category: units
