@@ -7,7 +7,7 @@
 		"parent": "distributor",
 		"requirements": [
 			"copper/40",
-      			"lead/20"
+      			"lead/20",
 		]
-	}
+	      }
 }
