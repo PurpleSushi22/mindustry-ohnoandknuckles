@@ -1,0 +1,6 @@
+temperature: 0.5
+flammability: 33
+viscocity: 2
+explosiveness: 3
+effect: melting
+cost: 1.4
