@@ -3,8 +3,8 @@
   "consumes": {
   	"items": {
 		"items": [
-			{ "item": "lead", "amount": 1 }
-			]
+			{ "item": "lead", "amount": 1 },
+			],
 		},
 	},
 },
