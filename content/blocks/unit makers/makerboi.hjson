@@ -23,3 +23,7 @@ consumes: {
  ]
  research: air-factory
  category: units
+ requirements: [
+  oh-no/300
+  lead/50
+]
