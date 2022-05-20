@@ -13,8 +13,8 @@
 			"copper/100"
       			"lead/50"
 		]
+		"category": "crafting",
 	}
   "itemCapacity": 5,
-  "category": "crafting",
   "idleSound": "respawning",
   "idleSoundVolume": 0.5
