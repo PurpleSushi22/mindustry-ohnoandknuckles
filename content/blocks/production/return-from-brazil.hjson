@@ -8,6 +8,7 @@
 	"craftTime": 80,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
+		"power": 2,
 		"items": {
 			"items": [
 				{ "item": "oh-no", "amount": 2 }
@@ -20,15 +21,15 @@
 		{ "item": "lead", "amount": 12},
 	],
 	"research": {
-		"parent": "distributor",
+		"parent": "kiln",
 		"requirements": [
 			"oh-no/50"
-      "copper/300"
-      "lead/100"
+      			"copper/300"
+      			"lead/100"
 		]
 	}
 	"category": "crafting",
 	"research": "distributor",
-	"idleSound": "respawning",
+	"idleSound": "bruh",
 	"idleSoundVolume": 0.5
 }
