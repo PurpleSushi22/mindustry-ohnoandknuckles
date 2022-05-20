@@ -3,7 +3,6 @@ speed: 1.5
 boost: true
 health: 250
 engineOffset: 5
-collidesAir: true
 collidesGround: true
 range: 0.4
 killshooter: true
