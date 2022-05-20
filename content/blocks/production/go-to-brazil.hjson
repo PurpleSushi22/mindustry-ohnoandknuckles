@@ -2,3 +2,4 @@ type: ItemVoid
 category: distribution
 alwaysUnlocked: true
 health: 69
+constructTime: 1
