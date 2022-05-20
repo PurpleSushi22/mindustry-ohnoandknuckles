@@ -18,5 +18,6 @@
 	}
   "itemCapacity": 5,
   "idleSound": "respawning",
-  "idleSoundVolume": 0.5
+  "idleSoundVolume": 0.5,
+  "size": 2,
 }
