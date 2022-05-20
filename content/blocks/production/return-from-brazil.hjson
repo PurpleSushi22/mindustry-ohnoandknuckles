@@ -8,7 +8,6 @@
 	"craftTime": 80,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 2,
 		"items": {
 			"items": [
 				{ "item": "oh-no", "amount": 2 }
