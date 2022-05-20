@@ -1,5 +1,6 @@
 {
   "type": "GenericSmelter",
+  "category": "transportation",
   "consumes": {
   	"items": {
 		"items": [
