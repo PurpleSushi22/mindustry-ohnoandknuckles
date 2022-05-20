@@ -1,0 +1,12 @@
+"type": "Wall",
+"health": 560
+"category": defense,
+"requirements": [
+		{ "item": "oh-no", "amount": 6 }
+	],
+"research": {
+  "parent": "duo"
+  "requirements": [
+    oh-no/50
+  ]
+}
