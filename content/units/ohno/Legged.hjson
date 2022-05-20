@@ -15,21 +15,21 @@ weapons: [
     rotate: true
     bullet: {
       type: ShrapnelBulletType
-      lifetime: 100
-      speed: 4.2
+      lifetime: 30
+      speed: 6
       frontColor: FFFFDD
       backColor: DDDDBB
       fragBullets: 10
       damage: 12
       fragBullet: {
-        lifetime: 100
-        speed: 3.8
+        lifetime: 30
+        speed: 6
         type: ShrapnelBulletType
         frontColor: FFFFDD
         backColor: DDDDBB
         fragBullet: {
-          lifetime: 100
-          speed: 3.1
+          lifetime: 30
+          speed: 6
           type: ShrapnelBulletType
           frontColor: FFFFDD
           backColor: DDDDBB
