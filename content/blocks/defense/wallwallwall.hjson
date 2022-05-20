@@ -1,0 +1,13 @@
+"type": "Wall",
+"health": 2400,
+"size": 2,
+"category": defense,
+"requirements": [
+		{ "item": "oh-no", "amount": 6 }
+	],
+"research": {
+  "parent": "wallwall"
+  "requirements": [
+    oh-no/50
+  ]
+}
