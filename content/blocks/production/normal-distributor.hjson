@@ -1,5 +1,5 @@
+  "category": crafting,
   "type": "GenericSmelter",
-  "category": distribution,
   "consumes": {
   	"items": {
 		"items": [
