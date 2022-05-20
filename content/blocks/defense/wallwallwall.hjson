@@ -3,7 +3,7 @@
 "size": 2,
 "category": defense,
 "requirements": [
-		{ "item": "oh-no", "amount": 6 }
+		{ "item": "oh-no", "amount": 24 }
 	],
 "research": {
   "parent": "wallwall"
