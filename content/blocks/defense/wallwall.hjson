@@ -7,7 +7,7 @@
 "research": {
   "parent": "copper-wall"
   "requirements": [
-    oh-no/50
+    oh-no/150
   ]
 }
-"constructTime": 125
+"constructTime": 50
