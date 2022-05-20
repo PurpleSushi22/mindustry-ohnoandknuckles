@@ -20,7 +20,6 @@
 		{ "item": "lead", "amount": 12},
 	],
 	"research": {
-		"parent": "kiln",
 		"requirements": [
 			"oh-no/50"
       			"copper/300"
@@ -28,7 +27,7 @@
 		]
 	}
 	"category": "crafting",
-	"research": "distributor",
+	"research": "core-shard",
 	"idleSound": "bruh",
 	"idleSoundVolume": 0.5
 }
