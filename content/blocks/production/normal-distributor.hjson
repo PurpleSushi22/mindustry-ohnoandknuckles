@@ -1,6 +1,6 @@
 {
   "type": "GenericSmelter",
-  "category": "distribution",
+  "category": "crafting",
   "consumes": {
   	"items": {
 		"items": [
