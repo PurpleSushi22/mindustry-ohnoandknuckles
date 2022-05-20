@@ -14,21 +14,21 @@ weapons: [
   {
     name: OhNo Gun
     shootSound: ohno
-    reload: 7
+    reload: 20
     alternate: true
     shootCone: 120
     rotate: true
     bullet: {
       type: FlakBulletType
-      lifetime: 240
-      speed: 3.4
+      lifetime: 100
+      speed: 4.2
       frontColor: FFFFDD
       backColor: DDDDBB
       fragBullets: 10
-      damage: 8
+      damage: 12
       fragBullet: {
         lifetime: 10
-        damage: 8
+        damage: 12
         collidesTeam: true
         healPercent: 6
       }
