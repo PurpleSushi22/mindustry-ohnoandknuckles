@@ -15,7 +15,9 @@ ammo: {
     lifetime: 70, 
     height: 22,
     width: 25, 
-    damage: 10, 
+    damage: 10,
+    frontColor: FF2222, 
+    backColor: EE1111, 
   },
   oh-no: {
     type: FlakBulletType, 
@@ -25,6 +27,8 @@ ammo: {
     height: 22, 
     width: 25, 
     damage: 20, 
+    frontColor: FF2222, 
+    backColor: EE1111, 
   },
   titanium: {
     ammoMultiplier: 3, 
@@ -34,6 +38,8 @@ ammo: {
     height: 22, 
     width: 25, 
     damage: 50, 
+    frontColor: FF2222, 
+    backColor: EE1111, 
   },
   thorium: {
     ammoMultiplier: 1.5, 
@@ -43,6 +49,8 @@ ammo: {
     height: 23, 
     width: 24, 
     damage: 60, 
+    frontColor: FF2222, 
+    backColor: EEEE11, 
   },
 },
 requirements: [
