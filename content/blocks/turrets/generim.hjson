@@ -9,40 +9,40 @@ range: 116
 shootSound: ohno
 ammo: {
   lead: {
-    type: FlakBulletType
-    ammoMultiplier: 2
-    speed: 4
-    lifetime: 70
-    height: 22
-    width: 25
-    damage: 10
+    type: FlakBulletType, 
+    ammoMultiplier: 2, 
+    speed: 4, 
+    lifetime: 70, 
+    height: 22,
+    width: 25, 
+    damage: 10, 
   },
   oh-no: {
-    type: FlakBulletType
-    ammoMultiplier: 1
-    speed: 5
-    lifetime: 70
-    height: 22
-    width: 25
-    damage: 20
+    type: FlakBulletType, 
+    ammoMultiplier: 1, 
+    speed: 5, 
+    lifetime: 70, 
+    height: 22, 
+    width: 25, 
+    damage: 20, 
   },
   titanium: {
-    ammoMultiplier: 3
-    type: FlakBulletType
-    speed: 6
-    lifetime: 50
-    height: 22
-    width: 25
-    damage: 50
+    ammoMultiplier: 3, 
+    type: FlakBulletType, 
+    speed: 6, 
+    lifetime: 50, 
+    height: 22, 
+    width: 25, 
+    damage: 50, 
   },
   thorium: {
-    ammoMultiplier: 1.5
-    type: FlakBulletType
-    speed: 4.5
-    lifetime: 160
-    height: 23
-    width: 24
-    damage: 60
+    ammoMultiplier: 1.5, 
+    type: FlakBulletType, 
+    speed: 4.5, 
+    lifetime: 160, 
+    height: 23, 
+    width: 24, 
+    damage: 60, 
   },
 },
 requirements: [
