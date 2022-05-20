@@ -1,7 +1,6 @@
 {
   "type": "GenericCrafter",
 	"outputItem": {"item": "coal", "amount": 6},
-	"size": 2,
 	"hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 10,
