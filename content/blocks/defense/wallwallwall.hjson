@@ -8,6 +8,7 @@
 "research": {
   "parent": "wallwall"
   "requirements": [
-    oh-no/50
+    oh-no/600
   ]
 }
+constructTime: 500
