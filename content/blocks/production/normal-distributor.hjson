@@ -1,6 +1,11 @@
 {
   "type": "GenericSmelter",
-  "consumes": {"lead/1"},
+  "consumes": 
+  "items": {
+		"items": [
+				{ "item": "coal", "amount": 1 }
+			]
+	},
   "outputItem": {"item": "oh-no", "amount": 1},
   "research": {
 		"parent": "distributor",
