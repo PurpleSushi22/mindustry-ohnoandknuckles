@@ -1,0 +1,34 @@
+{
+  "type": "GenericCrafter",
+	"outputItem": {"item": "coal", "amount": 6},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 80,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "oh-no", "amount": 2 }
+			]
+		}
+	},
+	"requirements": [
+    { "item": "oh-no", "amount": 5},
+		{ "item": "copper", "amount": 50},
+		{ "item": "lead", "amount": 12},
+	],
+	"research": {
+		"parent": "distributor",
+		"requirements": [
+			"oh-no/50"
+      "copper/300"
+      "lead/100"
+		]
+	}
+	"category": "crafting",
+	"research": "distributor",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
