@@ -27,6 +27,7 @@ consumes: {
     requirements: [
       thorium/69
       oh-no/69
+   ] 
    } 
  ]
  research: air-factory
