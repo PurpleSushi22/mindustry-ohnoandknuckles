@@ -23,12 +23,14 @@ weapons: [
       damage: 12
       width: 5
       height: 7
+      fragBullets: 2
       fragBullet: {
         lifetime: 30
         speed: 6
         type: ShrapnelBulletType
         frontColor: FFFFDD
         backColor: DDDDBB
+        fragBullets: 2
         fragBullet: {
           lifetime: 30
           speed: 6
