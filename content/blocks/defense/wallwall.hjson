@@ -1,5 +1,5 @@
 "type": "Wall",
-"health": 560
+"health": 700
 "category": defense,
 "requirements": [
 		{ "item": "oh-no", "amount": 6 }
