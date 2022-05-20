@@ -5,7 +5,7 @@ health: 250
 engineOffset: 5
 collidesAir: true
 collidesGround: true
-range: 1.2
+range: 0.4
 killshooter: true
 hitSize: 3
 drawSize: 4
@@ -21,9 +21,9 @@ weapons: [
     bullet: {
       type: FlakBulletType
       lifetime: 240
-      speed: 2.5
-      frontColor: FFFF00
-      backColor: DDDD00
+      speed: 3.4
+      frontColor: FFFF78
+      backColor: DDDD55
       fragBullets: 10
       damage: 8
       fragBullet: {
