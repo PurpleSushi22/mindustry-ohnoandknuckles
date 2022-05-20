@@ -1,11 +1,11 @@
 type: mech
 speed: 1.5
 boost: true
-health: 200
+health: 250
 engineOffset: 5
 collidesAir: true
 collidesGround: true
-range: 0.7
+range: 1.2
 killshooter: true
 hitSize: 3
 drawSize: 4
@@ -21,9 +21,9 @@ weapons: [
     bullet: {
       type: FlakBulletType
       lifetime: 240
-      speed: 1
-      frontColor: FFFFFF
-      backColor: FFFFFF
+      speed: 2.5
+      frontColor: FFFF00
+      backColor: DDDD00
       fragBullets: 10
       damage: 8
       fragBullet: {
