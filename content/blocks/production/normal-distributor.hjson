@@ -7,9 +7,8 @@
 			],
 		},
 	},
-},
   "outputItem": {
-  "items": {
+  	"items": {
 		"items": [
 			{ "item": "oh-no", "amount": 1 },
 			],
