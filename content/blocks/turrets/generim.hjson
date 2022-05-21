@@ -1,5 +1,5 @@
 category: turret
-constructTime: 5
+constructTime: 2
 health: 400
 type: ItemTurret
 reloadTime: 45
