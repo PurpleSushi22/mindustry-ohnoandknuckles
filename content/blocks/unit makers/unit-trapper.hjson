@@ -1,0 +1,21 @@
+type: Reconstructor
+health: 700
+constructTime: 5
+category: units
+size: 3
+consumes: {
+  power: 3.7
+    items: {
+      items: [
+        metaglass/500
+        oh-no/1
+      ]
+    }
+}
+upgrades: [
+  [dagger, Ohned]
+  [mace, Ohned]
+  [atrax, Legged]
+  [poly, ultra]
+  [mega, ultra]
+]
