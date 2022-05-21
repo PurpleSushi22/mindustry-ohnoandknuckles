@@ -1,7 +1,7 @@
 name: funnyohno
 displayName: Oh no (& Knuckles)
 author: PurpleSushi22
-version: 0.1.8
+version: ery, very cringe
 description:
   '''
   It's a funny oh no mod.
@@ -10,6 +10,7 @@ description:
   
   Kinda cringe. Actually, very cringe.
   
+  v0.1.9
   '''
 minGameVersion: 135
 hidden: false
