@@ -7,52 +7,60 @@ shootCone: 170
 targetGround: true
 range: 116
 shootSound: ohno
-ammo: {
-  lead: {
-    type: FlakBulletType, 
-    ammoMultiplier: 2, 
-    speed: 4, 
-    lifetime: 70, 
-    height: 22,
-    width: 25, 
-    damage: 10,
-    frontColor: FF2222, 
-    backColor: EE1111, 
-  },
+size: 2
+maxAmmo: 14
+ammoTypes: {
   oh-no: {
-    type: FlakBulletType, 
-    ammoMultiplier: 1, 
-    speed: 5, 
-    lifetime: 70, 
-    height: 22, 
-    width: 25, 
-    damage: 20, 
-    frontColor: FF2222, 
-    backColor: EE1111, 
-  },
-  titanium: {
-    ammoMultiplier: 3, 
-    type: FlakBulletType, 
-    speed: 6, 
-    lifetime: 50, 
-    height: 22, 
-    width: 25, 
-    damage: 50, 
-    frontColor: FF2222, 
-    backColor: EE1111, 
-  },
+    damage: 12
+    speed: 2
+    lifetime: 45
+    reloadMultiplier: 3
+    ammoMultiplier: 2
+    height: 8
+    width: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+  }
+  copper: {
+    damage: 7
+    speed: 3
+    lifetime: 45
+    height: 8
+    width: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+  }
+  graphite: {
+    damage: 18
+    speed: 3
+    lifetime: 45
+    height: 8
+    width: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+  }
+  silicon: {
+    damage: 14
+    speed: 2.3
+    lifetime: 45
+    ammoMultiplier: 4
+    height: 8
+    width: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    homingPower: 1
+  }
   thorium: {
-    ammoMultiplier: 1.5, 
-    type: FlakBulletType, 
-    speed: 4.5, 
-    lifetime: 160, 
-    height: 23, 
-    width: 24, 
-    damage: 60, 
-    frontColor: FF2222, 
-    backColor: EEEE11, 
-  },
-},
+    damage: 30
+    speed: 2.5
+    lifetime: 60
+    ammoMultiplier: 3
+    height: 10
+    width: 8
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+  }
+}
 requirements: [
     { "item": "oh-no", "amount": 30},
     { "item": "copper", "amount": 70},
