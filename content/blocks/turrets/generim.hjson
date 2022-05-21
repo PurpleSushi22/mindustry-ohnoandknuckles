@@ -12,7 +12,7 @@ maxAmmo: 14
 ammoTypes: {
   oh-no: {
     damage: 12
-    speed: 2
+    speed: 3
     lifetime: 45
     reloadMultiplier: 3
     ammoMultiplier: 2
@@ -23,7 +23,7 @@ ammoTypes: {
   }
   copper: {
     damage: 7
-    speed: 3
+    speed: 4
     lifetime: 45
     height: 8
     width: 6
@@ -32,7 +32,7 @@ ammoTypes: {
   }
   graphite: {
     damage: 18
-    speed: 3
+    speed: 3.5
     lifetime: 45
     height: 8
     width: 6
@@ -41,7 +41,7 @@ ammoTypes: {
   }
   silicon: {
     damage: 14
-    speed: 2.3
+    speed: 3.3
     lifetime: 45
     ammoMultiplier: 4
     height: 8
@@ -52,7 +52,7 @@ ammoTypes: {
   }
   thorium: {
     damage: 30
-    speed: 2.5
+    speed: 4
     lifetime: 60
     ammoMultiplier: 3
     height: 10
