@@ -5,6 +5,12 @@ engineOffset: 5
 range: 70
 hitSize: 4
 drawSize: 5
+research: Ohned
+ requirements: [
+  oh-no/1000
+  lead/120
+  silicon/50
+]
 weapons: [
   {
     name: Leggy Gun
