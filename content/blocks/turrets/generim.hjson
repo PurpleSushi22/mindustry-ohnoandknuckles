@@ -5,7 +5,7 @@ type: ItemTurret
 reloadTime: 45
 shootCone: 170
 targetGround: true
-range: 116
+range: 160
 shootSound: ohno
 size: 2
 maxAmmo: 14
