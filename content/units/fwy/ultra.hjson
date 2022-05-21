@@ -8,6 +8,11 @@ range: 0.6
 hitSize: 3
 drawSize: 4
 hitColor: ff1111
+research: Ohned
+ requirements: [
+  oh-no/1000
+  thorium/100
+]
 weapons: [
   {
     name: OhNo Gun
