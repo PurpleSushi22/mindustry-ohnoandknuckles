@@ -7,6 +7,11 @@ range: 0.4
 hitSize: 3
 drawSize: 4
 hitColor: ff1111
+research: makerboi
+ requirements: [
+  oh-no/1000
+  lead/1000
+]
 weapons: [
   {
     name: OhNo Gun
