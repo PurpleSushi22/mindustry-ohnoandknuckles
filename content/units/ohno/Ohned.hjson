@@ -16,8 +16,8 @@ weapons: [
     shootCone: 120
     rotate: true
     bullet: {
-      type: FlakBulletType
-      lifetime: 100
+      type: BasicBulletType
+      lifetime: 50
       speed: 4.2
       frontColor: FFFFDD
       backColor: DDDDBB
