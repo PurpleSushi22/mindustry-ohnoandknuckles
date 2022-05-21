@@ -19,8 +19,8 @@ weapons: [
     collidesTeam: true
     healPercent: 6.9
     bullet: {
-      type: FlakBulletType
-      lifetime: 100
+      type: BasicBulletType
+      lifetime: 30
       speed: 4.2
       frontColor: FFFFDD
       backColor: DDDDBB
