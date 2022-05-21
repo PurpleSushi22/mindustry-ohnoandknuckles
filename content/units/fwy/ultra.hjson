@@ -1,7 +1,7 @@
 type: flying
 canBuild: true
 speed: 3
-boost: true
+flying: true
 health: 150
 engineOffset: 5
 range: 0.6
