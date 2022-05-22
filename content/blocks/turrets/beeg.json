@@ -1,0 +1,42 @@
+category: turret
+constructTime: 2.7
+health: 400
+type: ItemTurret
+reloadTime: 30
+shootCone: 170
+targetGround: true
+range: 160
+shootSound: ohno
+size: 4
+maxAmmo: 59
+ammoTypes: {
+  oh-no: {
+    damage: 150
+    speed: 3
+    lifetime: 45
+    reloadMultiplier: 1.1
+    height: 8
+    width: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    bulletType: shrapnelBulletType
+}
+  sand2: {
+    damage: 150
+    speed: 4
+    height: 8
+    width: 6
+    ammoMultiplier: 1
+    reloadMultiplier: 1
+    bulletType: shrapnelBulletType
+  }
+}
+requirements: [
+    { "item": "oh-no", "amount": 100},
+	],
+research: {
+  parent: generim
+  requirements: [
+    oh-no/10000
+  ]
+},
