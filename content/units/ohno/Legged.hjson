@@ -5,12 +5,14 @@ engineOffset: 5
 range: 70
 hitSize: 4
 drawSize: 5
-research: Ohned
- requirements: [
-  oh-no/1000
-  lead/120
-  silicon/50
-]
+research: {
+  parent: maker-boi
+  requirements: [
+    oh-no/100
+    silicon/300
+    lead/200
+  ]
+}
 weapons: [
   {
     name: Leggy Gun
