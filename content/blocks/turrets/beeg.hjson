@@ -13,16 +13,24 @@ ammoTypes: {
   oh-no: {
     damage: 150
     speed: 3
-    lifetime: 45
-    reloadMultiplier: 1.1
+    reloadMultiplier: 1
+    ammoMultiplier: 1
     height: 8
     width: 6
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     type: shrapnelBulletType
 }
+  limy: {
+reloadMultiplier: 0.5
+damage: 200
+speed: 3
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+type: shrapnelBulletType
+ } 
   sand2: {
-    damage: 150
+    damage: 100
     speed: 4
     height: 8
     width: 6
