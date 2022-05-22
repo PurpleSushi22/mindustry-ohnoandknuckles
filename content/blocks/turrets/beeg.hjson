@@ -39,6 +39,6 @@ research: {
   parent: generim
   requirements: [
     oh-no/10000
-    sand/300
+    sand/3000
   ]
 },
