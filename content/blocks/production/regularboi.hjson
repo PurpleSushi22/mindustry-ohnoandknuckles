@@ -1,0 +1,34 @@
+{
+  "type": "GenericCrafter",
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 80,
+	"consumes": {
+    "power": 3.3
+		"items": {
+			"items": [
+				{ "item": "oh-no", "amount": 1 }
+        { "item": "limy", "amount": -3 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 50},
+		{ "item": "oh-no", "amount": 20},
+    { "item": "limy", "amount": 30},
+	],
+	"research": {
+		"parent": "sadboi",
+		"requirements": [
+			"copper/100"
+      			"lead/50"
+		]
+	}
+	"category": "crafting",
+	"research": "distributor",
+	"idleSound": "oh-no",
+	"idleSoundVolume": 3,
+	"constructTime": 2,
+	"size": 2,
+}
