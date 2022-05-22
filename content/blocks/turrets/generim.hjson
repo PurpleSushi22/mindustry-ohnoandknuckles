@@ -2,7 +2,7 @@ category: turret
 constructTime: 2
 health: 400
 type: ItemTurret
-reloadTime: 45
+reloadTime: 20
 shootCone: 170
 targetGround: true
 range: 160
@@ -59,6 +59,12 @@ ammoTypes: {
     width: 8
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
+  }
+  sand2: {
+    damage: 20
+    speed: 4
+    height: 8
+    width: 6
   }
 }
 requirements: [
