@@ -1,6 +1,7 @@
 type: router
 health: 1000
 category: transportation
+size: 3
 requirements: [
   { item: oh-no, amount: 6 }
   { item: lead, amount: 6 }
