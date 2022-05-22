@@ -19,7 +19,7 @@ ammoTypes: {
     width: 6
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    bulletType: shrapnelBulletType
+    type: shrapnelBulletType
 }
   sand2: {
     damage: 150
@@ -28,7 +28,7 @@ ammoTypes: {
     width: 6
     ammoMultiplier: 1
     reloadMultiplier: 1
-    bulletType: shrapnelBulletType
+    type: shrapnelBulletType
   }
 }
 requirements: [
