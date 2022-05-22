@@ -1,11 +1,9 @@
 {
   "type": "GenericCrafter",
-	"outputItem": {"item": "oh-no", "amount": 1},
 	"hasPower": true,
 	"hasItems": true,
 	"itemCapacity": 10,
 	"craftTime": 80,
-	"updateEffect": "smeltsmoke",
 	"consumes": {
     "power": 2.2
 		"items": {
