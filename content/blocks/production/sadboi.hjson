@@ -14,8 +14,8 @@
 		}
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 5},
-		{ "item": "lead", "amount": 5},
+		{ "item": "copper", "amount": 30},
+		{ "item": "oh-no", "amount": 10},
 	],
 	"research": {
 		"parent": "distributor",
