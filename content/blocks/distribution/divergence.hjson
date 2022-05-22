@@ -1,0 +1,17 @@
+type: router
+health: 1000
+category: transportation
+requirements: [
+  { item: oh-no, amount: 6 }
+  { item: lead, amount: 6 }
+  { item: copper, amount: 6 }
+]
+research: {
+  parent: go-to-brazil
+  requirements: [
+    oh-no/300
+    lead/200
+    copper/200
+  ]
+}
+constructTime: 0.1
