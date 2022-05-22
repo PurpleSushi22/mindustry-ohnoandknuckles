@@ -6,7 +6,7 @@ range: 70
 hitSize: 4
 drawSize: 5
 research: {
-  parent: maker-boi
+  parent: makerboi
   requirements: [
     oh-no/100
     silicon/300
