@@ -25,7 +25,7 @@
 		]
 	}
 	"category": "crafting",
-	"research": "distributor",
+	"research": "divergence",
 	"idleSound": "oh-no",
 	"idleSoundVolume": 3,
 	"constructTime": 2,
