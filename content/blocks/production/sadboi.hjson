@@ -1,0 +1,35 @@
+{
+  "type": "GenericCrafter",
+	"outputItem": {"item": "oh-no", "amount": 1},
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 80,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+    "power": 2.2
+		"items": {
+			"items": [
+				{ "item": "oh-no", "amount": 2 }
+        { "item": "limy", "amount": -1 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 5},
+		{ "item": "lead", "amount": 5},
+	],
+	"research": {
+		"parent": "distributor",
+		"requirements": [
+			"copper/100"
+      			"lead/50"
+		]
+	}
+	"category": "crafting",
+	"research": "distributor",
+	"idleSound": "oh-no",
+	"idleSoundVolume": 3,
+	"constructTime": 2,
+	"size": 2,
+}
