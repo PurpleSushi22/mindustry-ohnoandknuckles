@@ -21,6 +21,17 @@ ammoTypes: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
   }
+  limy: {
+    damage: 20
+    speed: 3.3
+    lifetime: 45
+    reloadMultiplier: 2
+    ammoMultiplier: 10
+    height: 8
+    width: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+  }
   copper: {
     damage: 7
     speed: 4
