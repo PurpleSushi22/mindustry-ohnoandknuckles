@@ -65,6 +65,7 @@ ammoTypes: {
     speed: 4
     height: 8
     width: 6
+    ammoMultiplier: 1
   }
 }
 requirements: [
