@@ -40,13 +40,15 @@ type: shrapnelBulletType
   }
 }
 requirements: [
-    { "item": "oh-no", "amount": 100},
-    { "item": "sand", "amount": 200},
+    { "item": "oh-no", "amount": 300},
+    { "item": "graphite", "amount": 200},
+    { "item": "titanium", "amount": 300},
 	],
 research: {
   parent: generim
   requirements: [
     oh-no/10000
-    sand/3000
+    graphite/3000
+    titanium/1000
   ]
 },
