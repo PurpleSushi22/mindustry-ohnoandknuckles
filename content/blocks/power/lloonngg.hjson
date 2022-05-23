@@ -1,8 +1,10 @@
 type: PowerNode
 laserRange: 600
+maxNodes: 4
 research: large-power-node
 requirements: [
   oh-no/5
   limy/20
+  silicon/30
 ]
 category: power
