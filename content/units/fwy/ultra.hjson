@@ -11,7 +11,7 @@ hitColor: ff1111
 research: {
   parent: Ohned
   requirements: [
-    oh-no/100
+    oh-no/1000
     thorium/1000
   ]
 }
