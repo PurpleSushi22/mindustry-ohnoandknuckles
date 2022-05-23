@@ -24,7 +24,7 @@ weapons: [
     shootCone: 120
     rotate: true
     collidesTeam: true
-    healPercent: 6.9
+    healPercent: 4.20
     bullet: {
       type: BasicBulletType
       lifetime: 30
@@ -32,12 +32,12 @@ weapons: [
       frontColor: FFFFDD
       backColor: DDDDBB
       fragBullets: 10
-      damage: 12
+      damage: 3
       collidesTeam: true
-      healPercent: 6.9
+      healPercent: 4.20
       fragBullet: {
         lifetime: 10
-        damage: 12
+        damage: 1
         collidesTeam: true
         healPercent: 4.20
       }
