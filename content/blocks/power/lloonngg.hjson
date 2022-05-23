@@ -1,0 +1,8 @@
+type: PowerNode
+laserRange: 600
+research: large-power-node
+requirements: [
+  oh-no/5
+  limy/20
+]
+category: power
