@@ -1,6 +1,6 @@
 category: turret
 constructTime: 2
-health: 400
+health: 700
 type: ItemTurret
 reloadTime: 20
 shootCone: 170
