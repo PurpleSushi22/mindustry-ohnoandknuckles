@@ -1,0 +1,4 @@
+buildVisibility: sandboxOnly
+size: 1
+hasPower: true
+powerProduction: -10000000000000000
