@@ -1,14 +1,14 @@
 name: funnyohno
-displayName: Oh no (& Knuckles)
+displayName: [scarlet]oh no[] (& Knuckles)
 author: PurpleSushi22
-version: 0.2.4
+version: 0.2.5
+subtitle: (0.2.5) Funny oh no mod
 description:
   '''
-  It's a funny oh no mod.
-  
-  Adds some things.
-  
-  Kinda cringe. Actually, very cringe.
+  ALPHA, V7 BUILD
+  It's a funny oh no mod
+  Do you like it?
+  [scarlet]I hope you do...[]
   '''
 minGameVersion: 136.69420
 hidden: false
