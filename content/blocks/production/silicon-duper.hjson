@@ -23,7 +23,7 @@
 		]
 	}
 	"category": "crafting",
-	"research": "distributor",
+	"research": "silicon",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5,
 	"constructTime": 1,
