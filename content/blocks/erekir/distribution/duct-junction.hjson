@@ -1,5 +1,6 @@
 type: junction
 category: distribution
+health: 90
 requirements: [
   { item: beryllium, amount: 5 }
 ]
