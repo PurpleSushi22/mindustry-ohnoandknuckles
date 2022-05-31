@@ -1,0 +1,8 @@
+type: junction
+category: distribution
+requirements: [
+  { item: beryllium, amount: 5 }
+]
+research: {
+  parent: duct
+}
