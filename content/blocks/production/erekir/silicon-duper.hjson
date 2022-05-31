@@ -17,7 +17,7 @@
 		{ "item": "silicon", "amount": 10},
 	],
 	"research": {
-		"parent": "silicon",
+		"parent": "silicon-arc-furnace",
 		"requirements": [
 			silicon/100
 		]
