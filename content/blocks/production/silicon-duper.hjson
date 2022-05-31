@@ -3,8 +3,8 @@
 	"outputItem": {"item": "silicon", "amount": 2},
 	"hasPower": true,
 	"hasItems": true,
-	"itemCapacity": 10,
-	"craftTime": 80,
+	"itemCapacity": 60,
+	"craftTime": 5,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"items": {
