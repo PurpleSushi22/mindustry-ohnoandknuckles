@@ -1,3 +1,4 @@
+size: 1
 hasPower: true
 powerProduction: 0.4
 research: turbine-condenser
