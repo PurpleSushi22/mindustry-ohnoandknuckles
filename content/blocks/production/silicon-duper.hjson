@@ -1,0 +1,31 @@
+{
+  "type": "GenericCrafter",
+	"outputItem": {"item": "silicon", "amount": 2},
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 80,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "silicon", "amount": 1 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "silicon", "amount": 10},
+	],
+	"research": {
+		"parent": "silicon",
+		"requirements": [
+			silicon/100
+		]
+	}
+	"category": "crafting",
+	"research": "distributor",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5,
+	"constructTime": 1,
+	"size": 2,
+}
