@@ -23,7 +23,7 @@
 		]
 	}
 	"category": "crafting",
-	"research": "silicon",
+	"research": "core-bastion",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5,
 	"constructTime": 1,
