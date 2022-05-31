@@ -1,8 +1,8 @@
 name: funnyohno
 displayName: "[scarlet]oh no[gold] (& Knuckles)"
 author: PurpleSushi22
-version: 0.2.6
-subtitle: (0.2.6) Funny oh no mod
+version: 0.2.7
+subtitle: (0.2.7) Funny oh no mod
 description:
   '''
   ALPHA, V7 BUILD
@@ -10,5 +10,5 @@ description:
   Do you like it?
   [scarlet]I hope you do...[]
   '''
-minGameVersion: 136.69420
+minGameVersion: 1055
 hidden: false
