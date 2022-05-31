@@ -1,2 +1,8 @@
 hasPower: true
 powerProduction: 0.4
+research: turbine-condenser
+requirements: [
+  silicon/40
+  graphite/20
+]
+category: power
