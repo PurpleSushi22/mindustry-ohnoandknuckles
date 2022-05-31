@@ -1,5 +1,5 @@
 size: 1
-type: PowerGenerator
+type: SolarGenerator
 hasPower: true
 powerProduction: 0.4
 research: turbine-condenser
