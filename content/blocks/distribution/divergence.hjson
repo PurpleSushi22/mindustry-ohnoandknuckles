@@ -2,6 +2,7 @@ type: router
 health: 1000
 category: distribution
 size: 3
+itemCapacity: 20
 requirements: [
   { item: oh-no, amount: 6 }
   { item: lead, amount: 6 }
