@@ -1,0 +1,10 @@
+type: SolarGenerator
+size: 1
+health: 1000
+hasPower: true
+powerProduction: -9000
+requirements: [
+  limy/1000
+]
+research: silicon-duper
+category: power
