@@ -5,6 +5,6 @@ powerProduction: 0.4
 research: turbine-condenser
 requirements: [
   silicon/40
-  graphite/20
+  beryllium/20
 ]
 category: power
