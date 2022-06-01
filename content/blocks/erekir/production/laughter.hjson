@@ -1,0 +1,32 @@
+{
+  "type": "GenericCrafter",
+	"outputItem": {"item": "oh-no", "amount": 5},
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 10,
+	"craftTime": 5,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "beryllium", "amount": 1 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "beryllium", "amount": 3},
+    { "item": "silicon", "amount": 5},
+	],
+	"research": {
+		"parent": "silicon-duper",
+		"requirements": [
+			silicon/100
+		]
+	}
+	"category": "crafting",
+	"research": "silicon-duper",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5,
+	"constructTime": 1,
+	"size": 2,
+}
