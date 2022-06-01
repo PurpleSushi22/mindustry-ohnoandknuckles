@@ -33,8 +33,6 @@ weapons: [
       fragBullet: {
         lifetime: 10
         damage: 12
-        collidesTeam: true
-        healPercent: 6
       }
     }
   }
