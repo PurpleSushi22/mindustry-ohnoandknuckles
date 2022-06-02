@@ -1,4 +1,4 @@
-var sector175 = SectorPreset("175", Planets.serpulo, 175);
+var sector175 = SectorPreset("titaniumlol", Planets.serpulo, 175);
 sector175.alwaysUnlocked = true;
 sector175.captureWave = 40;
 sector175.difficulty = 3;
