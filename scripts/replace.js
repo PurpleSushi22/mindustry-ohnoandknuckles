@@ -1,5 +1,5 @@
-var mymapd = SectorPreset("gigaFort", Planets.serpulo, 0);
-mymapd.alwaysUnlocked = true;
-mymapd.captureWave = 40;
-mymapd.difficulty = 2;
-mymapd.localizedName = "a map of all time";
+var sector175 = SectorPreset("175", Planets.serpulo, 175);
+sector175.alwaysUnlocked = true;
+sector175.captureWave = 40;
+sector175.difficulty = 2;
+sector175.localizedName = "the map of all time";
