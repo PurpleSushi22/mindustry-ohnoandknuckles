@@ -24,6 +24,8 @@
 	}
 	"category": "crafting",
 	"research": "core-bastion",
+	"ambientSound": "v-boom",
+	"ambientSoundVolume": "3"
 	"constructTime": 1,
 	"size": 2,
 }
