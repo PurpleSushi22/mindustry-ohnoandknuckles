@@ -24,8 +24,6 @@
 	}
 	"category": "crafting",
 	"research": "core-bastion",
-	"idleSound": "respawning",
-	"idleSoundVolume": 0.5,
 	"constructTime": 1,
 	"size": 2,
 }
