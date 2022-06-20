@@ -1,0 +1,50 @@
+type: flying
+canBuild: true
+speed: 3
+flying: true
+health: 1
+engineOffset: 5
+range: 0.3
+hitSize: 3
+drawSize: 4
+hitColor: ff1111
+buildSpeed: 1
+research: {
+  parent: ultra
+  requirements: [
+    oh-no/600
+  ]
+}
+weapons: [
+  {
+    name: OhNo Gun
+    shootSound: ohno
+    reload: 5
+    alternate: true
+    shootCone: 210
+    inaccuracy: 3
+    controllable: true
+    rotate: true
+    collidesTeam: true
+    healPercent: 4.20
+    bullet: {
+      type: BasicBulletType
+      ammoType: power
+      lifetime: 20
+      speed: 4.2
+      frontColor: FFFFDD
+      backColor: DDDDBB
+      fragBullets: 10
+      damage: 3
+      collidesTeam: true
+      healPercent: 4.20
+      fragBullet: {
+        lifetime: 10
+        damage: 1
+        collidesTeam: true
+        healPercent: 4.20
+      }
+    }
+  }
+]
+ 
