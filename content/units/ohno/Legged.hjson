@@ -5,6 +5,7 @@ engineOffset: 5
 range: 70
 hitSize: 4
 drawSize: 5
+ammoType: graphite,
 research: {
   parent: makerboi
   requirements: [
