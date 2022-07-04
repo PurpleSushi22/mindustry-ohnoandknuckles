@@ -9,6 +9,7 @@ hitSize: 3
 drawSize: 4
 hitColor: ff1111
 buildSpeed: 1
+ammoType: silicon
 research: {
   parent: ultra
   requirements: [
@@ -29,7 +30,6 @@ weapons: [
     healPercent: 4.20
     bullet: {
       type: BasicBulletType
-      ammoType: power
       lifetime: 20
       speed: 4.2
       frontColor: FFFFDD
