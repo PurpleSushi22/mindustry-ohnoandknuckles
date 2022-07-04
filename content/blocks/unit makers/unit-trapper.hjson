@@ -19,3 +19,9 @@ upgrades: [
   [poly, ultra]
   [mega, ultra]
 ]
+ research: maker-boi
+ category: units
+ requirements: [
+  oh-no/300
+  metaglass/200
+]
