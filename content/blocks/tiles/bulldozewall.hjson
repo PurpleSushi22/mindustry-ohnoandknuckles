@@ -1,0 +1,4 @@
+"type": "Wall",
+"health": 70000000
+"category": defense,
+"constructTime": 300
