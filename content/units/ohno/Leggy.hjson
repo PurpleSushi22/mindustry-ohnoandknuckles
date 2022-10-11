@@ -35,6 +35,7 @@ weapons: [
       damage: 18
       width: 5
       height: 7
+    }
     },
   {
     name: Rotatable Leggy Gun
