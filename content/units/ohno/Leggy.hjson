@@ -1,6 +1,6 @@
 type: legs
-speed: 1.2
-health: 400
+speed: 2.4
+health: 1200
 engineOffset: 5
 range: 70
 hitSize: 4
@@ -49,8 +49,8 @@ weapons: [
     speed: 2
     frontColor: 00bee0
     frontColor: 0beee0
-    damage: 22
-    width: 12
+    damage: 26
+    width: 38
     height: 1
     }
   }
