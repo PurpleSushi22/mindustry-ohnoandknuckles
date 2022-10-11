@@ -1,0 +1,57 @@
+type: legs
+speed: 1.2
+health: 400
+engineOffset: 5
+range: 70
+hitSize: 4
+drawSize: 5
+legCount: 82
+ammoType: graphite
+research: {
+  parent: Legged
+  requirements: [
+    oh-no/10000
+    silicon/2
+    lead/2
+    copper/2
+    thorium/2
+  ]
+}
+weapons: [
+  {
+    name: Leggy Gun
+    shootSound: ohno
+    reload: 5
+    alternate: true
+    shootCone: 120
+    rotate: false
+    bullet: {
+      type: BasicBulletType
+      lifetime: 30
+      speed: 6
+      frontColor: FFFFDD
+      backColor: DDDDBB
+      fragBullets: 10
+      damage: 18
+      width: 5
+      height: 7
+    }
+  {
+    name: Rotatable Leggy Gun
+    shootSound: ohno
+    reload: 30
+    shootCone: 180
+    rotate: true
+    bullet: {
+    type: BasicBulletType
+    lifetime: 600
+    speed: 2
+    frontColor: 00bee0
+    frontColor: 0beee0
+    damage: 22
+    width: 12
+    height: 1
+    }
+  }
+  }
+]
