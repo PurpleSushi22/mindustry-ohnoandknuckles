@@ -22,7 +22,7 @@ consumes: {
     ]
    }
    {
-     unit: ultra
+     unit: Ultra
      time: 1337
     requirements: [
       thorium/69
