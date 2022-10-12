@@ -7,7 +7,6 @@ consumes: {
   power: 3.7
     items: {
       items: [
-        metaglass/500
         oh-no/1
       ]
     }
@@ -15,9 +14,10 @@ consumes: {
 upgrades: [
   [dagger, Ohned]
   [mace, Ohned]
-  [atrax, Legged]
-  [poly, ultra]
-  [mega, ultra]
+  [crawler, Legged]
+  [atrax, Leggy]
+  [poly, Ultra]
+  [mega, drip]
 ]
  research: maker-boi
  category: units
