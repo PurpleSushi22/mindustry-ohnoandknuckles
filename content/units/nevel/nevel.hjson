@@ -1,0 +1,35 @@
+type: naval
+speed: 2
+boost: true
+health: 600
+engineOffset: 5
+range: 0.4
+hitSize: 4
+drawSize: 4
+hitColor: ff1111
+research: {
+  parent: Ohned
+  requirements: [
+    oh-no/500
+    lead/300
+  ]
+}
+weapons: [
+  {
+    name: noval-gun
+    shootSound: ohno
+    reload: 10
+    alternate: true
+    shootCone: 40
+    rotate: true
+    bullet: {
+      type: BasicBulletType
+      lifetime: 50
+      speed: 4.2
+      frontColor: EEEECC
+      backColor: CCCCAA
+      fragBullets: 10
+      damage: 7
+    }
+  }
+]
