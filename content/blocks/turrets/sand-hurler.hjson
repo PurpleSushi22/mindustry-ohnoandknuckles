@@ -1,0 +1,47 @@
+category: turret
+constructTime: 1.4
+health: 800
+type: ItemTurret
+reloadTime: 30
+shootCone: 120
+targetGround: true
+range: 160
+shootSound: ohno
+size: 3
+maxAmmo: 14
+ammoTypes: {
+  sand: {
+    damage: 4
+    speed: 6
+    lifetime: 45
+    reloadMultiplier: 10
+    ammoMultiplier: 3
+    height: 5
+    width: 4
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+  }
+  scrap: {
+    damage: 7
+    speed: 5
+    lifetime: 78
+    reloadMultiplier: 2
+    ammoMultiplier: 3
+    height: 6
+    width: 8
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+  }
+}
+requirements: [
+    { "item": "oh-no", "amount": 30},
+    { "item": "copper", "amount": 200},
+    { "item": "lead", "amount": 100},
+research: {
+  parent: generim
+  requirements: [
+    oh-no/300
+    copper/2000
+    lead/2000
+  ]
+},
