@@ -86,7 +86,7 @@ requirements: [
     { "item": "graphite", "amount": 40},
 	],
 research: {
-  parent: return-from-brazil
+  parent: lancer
   requirements: [
     oh-no/500
     copper/700
