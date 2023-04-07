@@ -10,8 +10,10 @@ hitColor: ff1111
 research: {
   parent: Ohned
   requirements: [
-    oh-no/500
-    lead/300
+    oh-no/2000
+    lead/3000
+    copper/4000
+    metaglass/800
   ]
 }
 weapons: [
