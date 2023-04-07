@@ -37,6 +37,7 @@ requirements: [
     { "item": "oh-no", "amount": 30},
     { "item": "copper", "amount": 200},
     { "item": "lead", "amount": 100},
+    ]
 research: {
   parent: generim
   requirements: [
