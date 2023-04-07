@@ -22,6 +22,16 @@ consumes: {
     ]
    }
    {
+    unit: nevel
+    time: 1111
+    requirements: [
+      oh-no/50
+      metaglass/40
+      lead/60
+      copper/60
+    ]
+   }
+   {
      unit: Ultra
      time: 1337
     requirements: [
