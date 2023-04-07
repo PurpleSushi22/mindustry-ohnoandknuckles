@@ -1,0 +1,61 @@
+type: mech
+speed: 1
+boost: true
+health: 600
+engineOffset: 5
+range: 0.4
+hitSize: 3
+drawSize: 4
+hitColor: ff1111
+research: {
+  parent: Ohned
+  requirements: [
+    oh-no/4500
+    lead/2400
+    graphite/1200
+  ]
+}
+weapons: [
+  {
+    name: ohno-gun
+    shootSound: ohno
+    reload: 20
+    alternate: true
+    shootCone: 120
+    rotate: true
+    bullet: {
+      type: BasicBulletType
+      lifetime: 50
+      speed: 4.2
+      frontColor: 222211
+      backColor: 111100
+      fragBullets: 10
+      damage: 24
+      fragBullet: {
+        lifetime: 10
+        damage: 24
+      }
+    }
+  },
+  {
+    name: Ohno Gun S
+    shootSound: ohno
+    reload: 300
+    alternate: false
+    shootCone: 120
+    rotate: true
+    bullet: {
+      type: BasicBulletType
+      lifetime: 50
+      speed: 4.2
+      frontColor: 555577
+      backColor: 444466
+      fragBullets: 10
+      damage: 40
+      fragBullet: {
+        lifetime: 10
+        damage: 40
+      }
+    }
+  }
+]
