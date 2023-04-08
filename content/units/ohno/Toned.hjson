@@ -27,8 +27,8 @@ weapons: [
       type: BasicBulletType
       lifetime: 50
       speed: 4.2
-      frontColor: 222211
-      backColor: 111100
+      frontColor: ddddee
+      backColor: ccccdd
       fragBullets: 10
       damage: 24
       fragBullet: {
@@ -39,8 +39,8 @@ weapons: [
   },
   {
     name: Ohno Gun S
-    shootSound: ohno
-    reload: 300
+    shootSound: shootBig
+    reload: 100
     alternate: false
     shootCone: 120
     rotate: true
@@ -48,9 +48,11 @@ weapons: [
       type: BasicBulletType
       lifetime: 50
       speed: 4.2
-      frontColor: 555577
-      backColor: 444466
-      fragBullets: 10
+      frontColor: 22ff22
+      backColor: 44ff44
+      height: 20
+      width: 12
+      fragBullets: 3
       damage: 40
       fragBullet: {
         lifetime: 10
