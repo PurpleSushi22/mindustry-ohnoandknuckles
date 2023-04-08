@@ -7,17 +7,19 @@ consumes: {
   power: 3.7
     items: {
       items: [
-        oh-no/1
+        oh-no/100
+        graphite/200
       ]
     }
 }
 upgrades: [
   [dagger, Ohned]
-  [mace, Ohned]
+  [mace, Toned]
   [crawler, Legged]
   [atrax, Leggy]
   [poly, Ultra]
   [mega, drip]
+  [risso, nevel]
 ]
  research: maker-boi
  category: units
