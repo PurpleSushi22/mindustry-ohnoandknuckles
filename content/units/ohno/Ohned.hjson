@@ -32,7 +32,7 @@ weapons: [
       damage: 12
       fragBullet: {
         lifetime: 10
-        damage: 12
+        damage: 3
       }
     }
   }
