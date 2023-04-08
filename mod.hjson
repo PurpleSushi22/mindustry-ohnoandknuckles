@@ -3,18 +3,15 @@ displayName: Oh no & Knuckles
 author: PurpleSushi22
 description:
 '''
-What the oh no mod doin?
+Some oh-no mod I'm working on.
+If you're from the Negative Tails/ßhieshbposts Languages mod, you're in the right place.
+[lightgray](that mod's more popular anyway.... oops)[]
+-----WHAT'S NEW-----
+New units: Toned and Nevel
+New turret: Sand Hurler
 
-uh im bored can i download the mod pls
-
-
-Turi ip ip ip
-Ip ip ip sho ik
-Ip tua o ip ip
-Teri teri ip ik sho ip ik
-
 '''
-version: 0.2.9
-subtitle: (0.2.9) Funny oh no mod
-minGameVersion: 136.00000000000000001
+version: 0.3
+subtitle: (0.3) Funny oh no mod
+minGameVersion: 142
 hidden: false
