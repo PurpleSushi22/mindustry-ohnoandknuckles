@@ -3,7 +3,7 @@
 "size": 2,
 "category": defense,
 "requirements": [
-		{ "item": "oh-no", "amount": 24 }
+		{ "item": "oh-no", "amount": 28 }
 	],
 "research": {
   "parent": "wallwall"
@@ -11,4 +11,4 @@
     oh-no/600
   ]
 }
-"constructTime": 20
+"constructTime": 8
