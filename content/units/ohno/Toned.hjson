@@ -29,7 +29,7 @@ weapons: [
       speed: 4.2
       frontColor: ddddee
       backColor: ccccdd
-      fragBullets: 10
+      fragBullets: 5
       damage: 24
       fragBullet: {
         lifetime: 10
