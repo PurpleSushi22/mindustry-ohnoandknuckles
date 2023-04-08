@@ -2,7 +2,7 @@
 "health": 700
 "category": defense,
 "requirements": [
-		{ "item": "oh-no", "amount": 6 }
+		{ "item": "oh-no", "amount": 8 }
 	],
 "research": {
   "parent": "titanium-wall"
