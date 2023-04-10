@@ -14,14 +14,15 @@ mesh: {
 }
 #cloudMesh: {}
 generator: {
-  min: 100
-  max: 200
+  type: PlanetGenerator
+  min: 150
+  max: 150
   radMin: 400
   radMax: 500
   seed: 78229
   berylChance: 0
 }
-sectors: 44
+startSector: 29
 sectorSize: 0.7
 orbitSpacing: 6
 radius: 0.6
@@ -29,6 +30,9 @@ minZoom: 1.2
 drawOrbit: true
 atmosphereRadIn: 0
 atmosphereRadOut: 0.4
+allowLaunchSchematics: true
+allowLaunchLoadout: true
+allowSectorInvasion: true
 accessible: true
 updateLighting: true
 sectorSeed: 53
