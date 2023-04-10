@@ -1,0 +1,44 @@
+alwaysUnlocked: true
+mesh: {
+  type: NoiseMesh
+  planet: oln
+  seed: 24432
+  divisions: 8
+  color1: a236f8
+  color2: 9e12d1
+  radius: 0.9
+  octaves: 4
+  persistence: 0.9
+  scale: 1.1
+  mag: 1.5
+}
+#cloudMesh: {}
+generator: {
+  min: 100
+  max: 200
+  radMin: 400
+  radMax: 500
+  seed: 78229
+  berylChance: 0
+}
+orbitSpacing: 6
+radius: 1.7
+minZoom: 1.6
+drawOrbit: true
+atmosphereRadIn: 0
+atmosphereRadOut: 0.4
+accessible: true
+updateLighting: true
+sectorSeed: 53
+bloom: false
+visible: true
+atmosphereColor: 87567f
+iconColor: c34fff
+hasAtmosphere: true
+allowWaveSimulation: true
+clearSectorOnLose: true
+allowWaves: true
+defaultCore: core-nucleus
+parent: sun
+solarSystem: sun
+launchCandidates: []
