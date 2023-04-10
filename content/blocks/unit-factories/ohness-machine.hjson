@@ -4,12 +4,11 @@ constructTime: 3
 category: units
 size: 3
 consumes: {
-  power: 4
+  power: 5
     items: {
       items: [
-        oh-no/200
+        oh-no/100
         graphite/20
-        metaglass/10
         copper/40
       ]
     }
@@ -29,4 +28,5 @@ research: {
  category: units
  requirements: [
   oh-no/100
+  graphite/60
 ]
