@@ -21,7 +21,8 @@ generator: {
   seed: 78229
   berylChance: 0
 }
-sectorSize: 57
+sectors: 44
+sectorSize: 0.7
 orbitSpacing: 6
 radius: 0.6
 minZoom: 1.2
