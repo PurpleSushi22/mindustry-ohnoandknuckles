@@ -2,6 +2,7 @@ type: Reconstructor
 health: 1200
 constructTime: 3
 category: units
+time: 1000
 size: 3
 consumes: {
   power: 5
