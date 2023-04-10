@@ -21,10 +21,10 @@ generator: {
   seed: 78229
   berylChance: 0
 }
-sectorSize: 162
+sectorSize: 57
 orbitSpacing: 6
-radius: 1.7
-minZoom: 1.6
+radius: 0.6
+minZoom: 1.2
 drawOrbit: true
 atmosphereRadIn: 0
 atmosphereRadOut: 0.4
