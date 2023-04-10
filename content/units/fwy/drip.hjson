@@ -30,7 +30,7 @@ weapons: [
     healPercent: 4.20
     bullet: {
       type: BasicBulletType
-      lifetime: 20
+      lifetime: 200
       speed: 4.2
       frontColor: FFFFDD
       backColor: DDDDBB
