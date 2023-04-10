@@ -20,7 +20,7 @@ weapons: [
   {
     name: nevel-gun
     shootSound: ohno
-    reload: 50
+    reload: 20
     alternate: false
     shootCone: 40
     rotate: true
