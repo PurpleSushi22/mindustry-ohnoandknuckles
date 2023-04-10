@@ -11,7 +11,7 @@ hitColor: ff1111
 buildSpeed: 1
 ammoType: silicon
 research: {
-  parent: ultra
+  parent: Ultra
   requirements: [
     oh-no/600
   ]
