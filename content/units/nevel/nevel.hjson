@@ -20,8 +20,8 @@ weapons: [
   {
     name: nevel-gun
     shootSound: ohno
-    reload: 10
-    alternate: true
+    reload: 100
+    alternate: false
     shootCone: 40
     rotate: true
     bullet: {
@@ -31,8 +31,8 @@ weapons: [
       frontColor: 9900EE
       backColor: 7700DD
       damage: 50
-      width: 5
-      height: 3
+      width: 2
+      height: 40
     }
   }
 ]
