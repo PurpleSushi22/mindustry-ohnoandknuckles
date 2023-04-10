@@ -1,0 +1,32 @@
+type: Reconstructor
+health: 1200
+constructTime: 3
+category: units
+size: 3
+consumes: {
+  power: 4
+    items: {
+      items: [
+        oh-no/200
+        graphite/20
+        metaglass/10
+        copper/40
+      ]
+    }
+}
+upgrades: [
+  [Ohned, Toned]
+  [Legged, Leggy]
+  [Ultra, drip]
+]
+research: {
+  parent: makerboi
+  requirements: [
+    oh-no/1000
+    graphite/300
+  ]
+}
+ category: units
+ requirements: [
+  oh-no/100
+]
