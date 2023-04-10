@@ -20,7 +20,7 @@ weapons: [
   {
     name: nevel-gun
     shootSound: ohno
-    reload: 100
+    reload: 50
     alternate: false
     shootCone: 40
     rotate: true
@@ -28,8 +28,8 @@ weapons: [
       type: BasicBulletType
       lifetime: 50
       speed: 4.2
-      frontColor: 9900EE
-      backColor: 7700DD
+      frontColor: FFBBFF
+      backColor: FFBBFF
       damage: 50
       width: 2
       height: 40
