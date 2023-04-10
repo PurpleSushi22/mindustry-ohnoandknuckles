@@ -1,5 +1,5 @@
 name: funnyohno
-displayName: Oh no & Knuckles
+displayName: Oh no (& Kunckles)
 author: PurpleSushi22
 description:
 '''
@@ -7,11 +7,12 @@ Some oh-no mod I'm working on.
 If you're from the Negative Tails/ßhieshbposts Languages mod, you're in the right place.
 [lightgray](that mod's more popular anyway.... oops)[]
 -----WHAT'S NEW-----
-New units: Toned and Nevel
-New turret: Sand Hurler
+Balance changes
+Made units more different
+Changed bundle a bit
 
 '''
-version: 0.3
-subtitle: (0.3) Funny oh no mod
+version: 0.3.1
+subtitle: (0.3.1) Funny oh no mod
 minGameVersion: 142
 hidden: false
