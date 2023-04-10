@@ -18,7 +18,7 @@ research: {
 }
 weapons: [
   {
-    name: noval-gun
+    name: nevel-gun
     shootSound: ohno
     reload: 10
     alternate: true
@@ -28,10 +28,11 @@ weapons: [
       type: BasicBulletType
       lifetime: 50
       speed: 4.2
-      frontColor: EEEECC
-      backColor: CCCCAA
-      fragBullets: 10
-      damage: 7
+      frontColor: 9900EE
+      backColor: 7700DD
+      damage: 50
+      width: 5
+      height: 3
     }
   }
 ]
