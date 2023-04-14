@@ -35,14 +35,18 @@ weapons: [
       frontColor: FFFFDD
       backColor: DDDDBB
       fragBullets: 10
-      damage: 3
+      damage: 5
       collidesTeam: true
-      healPercent: 4.20
+      healPercent: 4
+      width: 4
+      height: 14
       fragBullet: {
-        lifetime: 10
-        damage: 1
+        lifetime: 200
+        damage: 2
         collidesTeam: true
-        healPercent: 4.20
+        healPercent: 4
+        width: 2
+        height: 20
       }
     }
   }
