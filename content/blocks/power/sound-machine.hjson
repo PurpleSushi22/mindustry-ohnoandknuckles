@@ -1,0 +1,24 @@
+ 
+type: consumeGenerator
+size: 3
+health: 800
+consumeEffect: respawn
+explodeOnFull: false
+itemDuration: 50
+consumes: { "item": "ohno/2", "liquid": "water/0.2" }
+category: power
+research: {
+parent: steam-generator
+hasLiquids: true
+liquidCapacity: 60
+requirements: [
+  limy/500
+  ohno/200
+  graphite/250
+]
+}
+powerProduction: 5
+requirements: [
+"ohno/30",
+"limy/60",
+"graphite/40" ]
