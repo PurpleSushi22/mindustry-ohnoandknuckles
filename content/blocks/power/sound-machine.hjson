@@ -1,7 +1,7 @@
  type: ConsumeGenerator
 size: 3
 health: 800
-consumeEffect: SurgeCruciSmoke
+consumeEffect: smeltsmoke
 explodeOnFull: false
 itemDuration: 50
 consumes: { 
