@@ -1,21 +1,24 @@
-drillTime: 100
+drillTime: 120
 drawRim: true
 tier: 5
 size: 1
 type: drill
 requirements: [
 {
-	item: copper,
-	amount: 30
-},
-{
-	item: lead,
+	item: graphite,
 	amount: 30
 },
 {
 	item: silicon,
 	amount: 25
-}
+},
+{
+        item: limy,
+        amount: 30
+},
+{
+        item: ohno,
+        amount: 40
 ]
 category: production,
-research: pneumatic-drill
+research: laser-drill
