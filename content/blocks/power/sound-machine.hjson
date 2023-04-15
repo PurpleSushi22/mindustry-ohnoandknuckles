@@ -27,5 +27,5 @@ powerProduction: 5
 requirements: [
 "ohno/30",
 "limy/60",
-"graphite/40" ]
+"graphite/40" ];
 }
