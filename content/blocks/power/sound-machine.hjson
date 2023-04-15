@@ -7,10 +7,10 @@ explodeOnFull: false
 itemDuration: 50
 consumes: { 
 items: {
-items: {
+items: [
        item: oh-no,
        amount: 2
-}
+]
 }
 liquid: water/0.2 }
 category: power
