@@ -17,7 +17,7 @@ requirements: [
         amount: 30
 },
 {
-        item: ohno,
+        item: oh-no,
         amount: 40
 	}
 ]
