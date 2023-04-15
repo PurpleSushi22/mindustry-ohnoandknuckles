@@ -6,8 +6,13 @@ consumeEffect: respawn
 explodeOnFull: false
 itemDuration: 50
 consumes: { 
-"item": "oh-no", "amount": "2"
-"liquid": "water/0.2" }
+items: {
+items: {
+       item: oh-no,
+       amount: 2
+}
+}
+liquid: water/0.2 }
 category: power
 research: {
 parent: steam-generator
