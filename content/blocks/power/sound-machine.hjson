@@ -19,12 +19,12 @@ hasLiquids: true
 liquidCapacity: 60
 requirements: [
   limy/500
-  ohno/200
+  oh-no/200
   graphite/250
 ]
 }
 requirements: [
-"ohno/30",
+"oh-no/30",
 "limy/60",
 "graphite/40" ]
 powerProduction: 5
