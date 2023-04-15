@@ -6,7 +6,7 @@ consumeEffect: respawn
 explodeOnFull: false
 itemDuration: 50
 consumes: { 
-"item": "ohno", "amount": "2"
+"item": "oh-no", "amount": "2"
 "liquid": "water/0.2" }
 category: power
 research: {
