@@ -19,6 +19,7 @@ requirements: [
 {
         item: ohno,
         amount: 40
+	}
 ]
 category: production,
 research: laser-drill
