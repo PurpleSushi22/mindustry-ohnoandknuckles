@@ -1,5 +1,5 @@
  
-type: consumeGenerator
+type: ConsumeGenerator
 size: 3
 health: 800
 consumeEffect: respawn
