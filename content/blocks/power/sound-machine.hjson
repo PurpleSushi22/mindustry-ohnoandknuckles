@@ -27,4 +27,4 @@ requirements: [
 "oh-no/30",
 "limy/60",
 "graphite/40" ]
-powerProduction: 5
+powerProduction: 7
