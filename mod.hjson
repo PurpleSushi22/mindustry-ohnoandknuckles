@@ -7,13 +7,9 @@ Some oh-no mod I'm working on.
 If you're from the Negative Tails/ßhieshbposts Languages mod, you're in the right place.
 [lightgray](that mod's more popular anyway.... oops)[]
 -----WHAT'S NEW-----
-Ohno Melter
-First status effect!
-First power generator!
-First drill!
-First fifth first!
+Holy shit balance changes
 '''
-version: b2
-subtitle: (Build 2) Funny oh no mod
-minGameVersion: 142
+version: b3
+subtitle: (Build 3) Funny oh no mod
+minGameVersion: 144.000000000000000000000001
 hidden: false
