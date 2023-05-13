@@ -1,0 +1,25 @@
+drillTime: 1
+drawRim: true
+tier: 7
+size: 5
+type: drill
+requirements: [
+{
+	item: phase-fabric,
+	amount: 50
+},
+{
+	item: silicon,
+	amount: 100
+},
+{
+        item: limy,
+        amount: 300
+},
+{
+        item: oh-no,
+        amount: 400
+	}
+]
+category: production,
+research: not-a-drill
