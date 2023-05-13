@@ -1,0 +1,44 @@
+type: naval
+speed: 4
+boost: true
+health: 1800
+engineOffset: 5
+range: 0.7
+hitSize: 5
+drawSize: 4
+hitColor: ff1111
+research: {
+  parent: nevel
+  requirements: [
+    oh-no/10000
+    lead/3000
+    copper/15000
+    graphite/8000
+  ]
+}
+weapons: [
+  {
+    name: trans-gun
+    shootSound: ohno
+    reload: 15
+    alternate: false
+    shootCone: 40
+    rotate: true
+    bullet: {
+      type: BasicBulletType
+      lifetime: 50
+      speed: 4.2
+      frontColor: FFBBFF
+      backColor: FFBBFF
+      damage: 80
+      width: 15
+      height: 15
+      fragBullets: 25
+      fragBullet: {
+        lifetime: 10
+        damage: 1
+        height: 2
+      }
+    }
+  }
+]
