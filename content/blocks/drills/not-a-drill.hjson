@@ -1,6 +1,6 @@
-drillTime: 120
+drillTime: 180
 drawRim: true
-tier: 5
+tier: 4
 size: 1
 type: drill
 requirements: [
