@@ -1,0 +1,29 @@
+type: naval
+speed: 0
+boost: true
+health: 600
+engineOffset: 5
+range: 1
+hitSize: 2
+drawSize: 4
+hitColor: ff1111
+weapons: [
+  {
+    name: sent
+    shootSound: pew
+    reload: 20
+    alternate: false
+    shootCone: 40
+    rotate: true
+    bullet: {
+      type: BasicBulletType
+      lifetime: 85
+      speed: 4.2
+      frontColor: FFBBFF
+      backColor: FFBBFF
+      damage: 50
+      width: 2
+      height: 40
+    }
+  }
+]
