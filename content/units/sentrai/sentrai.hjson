@@ -1,4 +1,5 @@
-type: naval
+type: flying
+flying: true
 speed: 0
 boost: true
 health: 600
